@@ -1,0 +1,50 @@
+.about-container {
+  min-height: 100vh;
+  background-color: #f9fafb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+}
+
+/* Picture */
+.picture {
+  text-align: center;
+  padding: 20px;
+}
+
+/* About Title */
+.about-title {
+  font-size: 2.25rem;
+  text-align: center;
+  font-weight: bold;
+  color: #aab9f3;
+  padding-top: 128px;
+}
+
+/* About Intro Paragraph */
+.about-intro {
+  font-size: 1.25rem;
+  text-align: center;
+  font-weight: 600;
+  color: #6c807a;
+  margin: 16px 160px;
+  padding: 16px;
+}
+
+/* Details Section */
+.about-details {
+  font-size: 1.125rem;
+  text-align: center;
+  color: #6c807a;
+  margin: 16px 160px;
+  padding: 16px;
+}
+
+/* Individual Paragraphs with Border */
+.about-paragraph {
+  margin-top: 16px;
+  padding: 16px;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+}
